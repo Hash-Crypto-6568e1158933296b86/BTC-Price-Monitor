@@ -3,7 +3,7 @@
 ### ESP32 + Display TFT (CYD)
 
 <p align="center">
-  <img src="./Imagens/ESP32-2432S028R.jpg" width="350">
+  <img src="./Imagens/IMG_1.jpg" width="350">
 </p>
 
 <p align="center">
