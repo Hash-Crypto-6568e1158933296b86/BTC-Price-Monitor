@@ -183,9 +183,3 @@ Você pode alterar:
 MIT
 
 ---
-
-## 👨‍💻 Autor
-
-Projeto focado em ESP32 + Price Monitor.
-
----
