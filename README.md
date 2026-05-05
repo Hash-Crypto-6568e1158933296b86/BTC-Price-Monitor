@@ -74,14 +74,6 @@ Edite o arquivo `secrets.h`:
 #define WIFI_PASSWORD "SUA_SENHA"
 ```
 
-🔒 Adicione ao `.gitignore`:
-
-```bash
-secrets.h
-```
-
----
-
 ## 🛠️ Instalação
 
 ### 1. Arduino IDE
@@ -150,7 +142,7 @@ https://api.binance.com/api/v3/ticker/24hr?symbol=BTCUSDT
 
 Você pode alterar:
 
-* 🎯 Moeda (USD / BRL)
+* 🎯 Moeda (USD / BRL) no código.
 * ⏱️ Intervalo de atualização
 * 🎨 Cores e layout
 * 🔤 Fontes
@@ -163,7 +155,7 @@ Você pode alterar:
 
 * Driver correto (ST7789)
 
-### Wi-Fi não conecta
+### Wi-Fi em loop quando não conecta.
 
 * Apenas 2.4GHz
 
@@ -171,10 +163,8 @@ Você pode alterar:
 
 ## 📈 Próximas melhorias
 
-* [ ] Gráfico de preço
-* [ ] Histórico local
-* [ ] Multi-criptomoedas
-* [ ] Touch interface
+* [ ] Gráfico e o preço em tempo real.
+* [ ] Histórico de alta e baixa.
 
 ---
 
